@@ -1,16 +1,9 @@
 # creolca
-echo "# creolca" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/creolca/creolca.git
-git push -u origin master
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
     <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great" rel="stylesheet">
     <link rel="stylesheet" href="style.css"> </head>
 
